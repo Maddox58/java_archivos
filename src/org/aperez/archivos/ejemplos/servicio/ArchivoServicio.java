@@ -14,6 +14,7 @@ public class ArchivoServicio {
                     .append("Hasta luego lucas");
             //buffer.close();
             System.out.println("El archivo se a creado con exito");
+            System.out.println("Prueba de bamboo");
         } catch (IOException e) {
             e.printStackTrace();
         }
